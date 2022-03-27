@@ -5,7 +5,7 @@
 
   ## 1. Overview of Project: 
 <p align="justify">The purpose of the project to know how different campaigns fared in relation to their launch dates and their funding goals. Analysis is performed to project the fundraise considering in a short amount of time.<p>
- <p align="justify">The project contains two technical analyses including tables and graphically visualization. Table and chart are created in MSExcel. Available download link as below. <p>
+ <p align="justify">The project contains two technical analyses including tables and graphically visualization. Table and chart are created in MSExcel which is available in download link as below. <p>
   
   - [Theater Outcomes Based on Launch Date and Outcomes Based on Goals](https://github.com/sharifbhuiyan/Kickstarter_analysis/blob/main/Kickstarter_Challenge.zip)  
 
