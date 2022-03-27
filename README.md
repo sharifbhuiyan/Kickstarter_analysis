@@ -21,14 +21,20 @@ Excel function has been used to collect the outcome and goal data for the “pla
 
 A line chart has been created to visualize the percentage of successful, failed, and canceled plays based on the funding goal amount. 
 
-![alt text](https://github.com/sharifbhuiyan/Kickstarter_analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
+<p align="center">
+  <img width="500" src=https://github.com/sharifbhuiyan/Kickstarter_analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png
+</p>
 
+ 
 
 ### ii)  Outcomes based on Goals :
 Excel function has been used to collect the outcome and goal data for the “plays” subcategory and calculated the percentage of successful, failed, and canceled projects for each row
 
-![alt text](https://github.com/sharifbhuiyan/Kickstarter_analysis/blob/main/Resources/Outcomes_vs_Goals.png)
+<p align="center">
+  <img width="800" height="300" src=https://github.com/sharifbhuiyan/Kickstarter_analysis/blob/main/Resources/Outcomes_vs_Goals.png
+</p>
 
+ 
 
 Though this data is for long period from year 2010 to 2017. 
 
