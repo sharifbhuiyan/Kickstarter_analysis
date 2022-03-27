@@ -16,10 +16,7 @@
 ### i) Theater outcomes based on launch date:
 <p align="justify">A “Pivot table” has been created based on  "successful," "failed," and "canceled" outcomes. 
 A “Line with markers” chart has been created to visualize campaign outcomes based on launch date. It visualizes the relationship between outcomes and launch month.
-ii)  Outcomes based on Goals :
-Excel function has been used to collect the outcome and goal data for the “plays” subcategory and calculated the percentage of successful, failed, and canceled projects for each row.</p>
 
-A line chart has been created to visualize the percentage of successful, failed, and canceled plays based on the funding goal amount. 
 
 <p align="center">
   <img width="500" src=https://github.com/sharifbhuiyan/Kickstarter_analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png
@@ -30,7 +27,10 @@ A line chart has been created to visualize the percentage of successful, failed,
 ### ii)  Outcomes based on Goals :
 <p align="justify">Excel function has been used to collect the outcome and goal data for the “plays” subcategory and calculated the percentage of successful, failed, and canceled projects for each row.<p>
 
-<p align="center">
+A line chart has been created to visualize the percentage of successful, failed, and canceled plays based on the funding goal amount. 
+
+  
+  <p align="center">
   <img width="800" height="300" src=https://github.com/sharifbhuiyan/Kickstarter_analysis/blob/main/Resources/Outcomes_vs_Goals.png
 </p>
 
