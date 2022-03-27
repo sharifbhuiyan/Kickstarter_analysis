@@ -11,7 +11,7 @@
 
 
 ## 2. Analysis and Challenges: 
-Basically Project has been accomplished based on two technical analysis. Theater outcomes based on launch date and outcomes based on Goals.
+<p align="justify">Basically Project has been accomplished based on two technical analysis. Theater outcomes based on launch date and outcomes based on Goals.<p>
 
 ### i) Theater outcomes based on launch date:
 <p align="justify">A “Pivot table” has been created based on  "successful," "failed," and "canceled" outcomes. 
@@ -28,7 +28,7 @@ A line chart has been created to visualize the percentage of successful, failed,
  
 
 ### ii)  Outcomes based on Goals :
-Excel function has been used to collect the outcome and goal data for the “plays” subcategory and calculated the percentage of successful, failed, and canceled projects for each row
+<p align="justify">Excel function has been used to collect the outcome and goal data for the “plays” subcategory and calculated the percentage of successful, failed, and canceled projects for each row.<p>
 
 <p align="center">
   <img width="800" height="300" src=https://github.com/sharifbhuiyan/Kickstarter_analysis/blob/main/Resources/Outcomes_vs_Goals.png
@@ -49,7 +49,7 @@ Chart Theater Outcomes by Launch Date
 
 
 ### Outcomes based on Goals
-The 100% failed range was ‘45000 to 49999’, where number of total project was single. Though the highest number of successful in target range 1000 to 4999, which was 73%. But the highest successful rate 76% was in target range “Less than 1000”.  
+<p align="justify">The 100% failed range was ‘45000 to 49999’, where number of total project was single. Though the highest number of successful in target range 1000 to 4999, which was 73%. But the highest successful rate 76% was in target range “Less than 1000”.<p>  
 
 
 
