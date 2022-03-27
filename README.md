@@ -49,8 +49,11 @@ A line chart is created to visualize the percentage of successful, failed, and c
 
 
 
-### some other possible tables and/or graphs that could be created
+### some other possible tables and graphs that could be created
   
-  - Clustered column can be created for showing Theater outcomes in “Y” axis and months in “X” axis. 
-
-  - Dataset has outliers. It can be demonstrated by creating a Box and Whisker Plot. 
+  - Clustered column chart can be created for showing Theater outcomes in “Y” axis and months in “X” axis.
+  
+  - Dataset has outliers. It can be demonstrated by creating a Box and Whisker Plot.
+  
+  - Measure of central tendency and measure of variation or dispersion can be used for skewed distributions or distributions with outliers. .
+  
