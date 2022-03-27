@@ -4,19 +4,20 @@
 
 
   ## 1. Overview of Project: 
-The purpose of the project to know how different campaigns fared in relation to their launch dates and their funding goals. Analysis is performed to project the fundraise considering in a short amount of time.
- The project contains two technical analyses including tables and graphically visualization. Table and chart are created in MSExcel. Available download link as below. 
-  - [Outcomes Based on Launch Date and Outcomes Based on Goals](https://github.com/sharifbhuiyan/Kickstarter_analysis/blob/main/Kickstarter_Challenge.zip)  
+<p align="justify">The purpose of the project to know how different campaigns fared in relation to their launch dates and their funding goals. Analysis is performed to project the fundraise considering in a short amount of time.<p>
+ <p align="justify">The project contains two technical analyses including tables and graphically visualization. Table and chart are created in MSExcel. Available download link as below. <p>
+  
+  - [Theater Outcomes Based on Launch Date and Outcomes Based on Goals](https://github.com/sharifbhuiyan/Kickstarter_analysis/blob/main/Kickstarter_Challenge.zip)  
 
 
 ## 2. Analysis and Challenges: 
-Basically Analysis has been accomplished based on two technical analysis. Theater outcomes based on launch date and outcomes based on Goals.
+Basically Project has been accomplished based on two technical analysis. Theater outcomes based on launch date and outcomes based on Goals.
 
 ### i) Theater outcomes based on launch date:
-A “Pivot table” has been created based on  "successful," "failed," and "canceled" outcomes. 
-A “Line with markers” chart has been created to to visualize campaign outcomes based on launch date. It visualizes the relationship between outcomes and launch month.
+<p align="justify">A “Pivot table” has been created based on  "successful," "failed," and "canceled" outcomes. 
+A “Line with markers” chart has been created to visualize campaign outcomes based on launch date. It visualizes the relationship between outcomes and launch month.
 ii)  Outcomes based on Goals :
-Excel function has been used to collect the outcome and goal data for the “plays” subcategory and calculated the percentage of successful, failed, and canceled projects for each row.
+Excel function has been used to collect the outcome and goal data for the “plays” subcategory and calculated the percentage of successful, failed, and canceled projects for each row.</p>
 
 A line chart has been created to visualize the percentage of successful, failed, and canceled plays based on the funding goal amount. 
 
