@@ -11,10 +11,10 @@
 
 
 ## 2. Analysis and Challenges: 
-<p align="justify">Basically Project has been accomplished based on two technical analysis. Theater outcomes based on launch date and outcomes based on Goals.<p>
+<p align="justify">Basically Project is accomplished based on two technical analysis. Theater outcomes based on launch date and outcomes based on Goals.<p>
 
 ### i) Theater outcomes based on launch date:
-<p align="justify">A “Pivot table” has been created based on  "successful," "failed," and "canceled" outcomes. 
+<p align="justify">A “Pivot table” is created based on  "successful," "failed," and "canceled" outcomes. 
 A “Line with markers” chart has been created to visualize campaign outcomes based on launch date. It visualizes the relationship between outcomes and launch month.
 
 
@@ -25,9 +25,9 @@ A “Line with markers” chart has been created to visualize campaign outcomes 
  
 
 ### ii)  Outcomes based on Goals :
-<p align="justify">Excel function has been used to collect the outcome and goal data for the “plays” subcategory and calculated the percentage of successful, failed, and canceled projects for each row.<p>
+<p align="justify">Spreasheet function is created to collect the outcomes and goals for the “plays” subcategory of dataset and calculated the percentage of successful, failed, and canceled projects for each campaign.<p>
 
-A line chart has been created to visualize the percentage of successful, failed, and canceled plays based on the funding goal amount. 
+A line chart is created to visualize the percentage of successful, failed, and canceled plays based on the funding goal amount. 
 
   
   <p align="center">
@@ -36,16 +36,12 @@ A line chart has been created to visualize the percentage of successful, failed,
 
  
 
-Though this data is for long period from year 2010 to 2017. 
-
-If you had no challenges, describe any possible challenges or difficulties that could be encountered.
-
 ## 3. Final Outcomes from analysis:
  
 ### Theater Outcomes by Launch Date
-1)	The most successful month for Kickstarter campaigns was May.
-2)	Jan, Mar, Sep, Nov and Dec all had almost the same number of failed campaigns launched. Though December successful and failed outcomes showing almost same point.
-Chart Theater Outcomes by Launch Date
+1)	From the analysis, it is cleared that the most successful month for Kickstarter campaigns was May.
+2)	Jan, Mar, Sep, Nov and Dec all had almost the same number of failed campaigns launched. Though successful and failed outcomes of December showing almost in same point.
+
 
 
 ### Outcomes based on Goals
@@ -53,11 +49,8 @@ Chart Theater Outcomes by Launch Date
 
 
 
+### some other possible tables and/or graphs that could be created
+  
+  - Clustered column can be created for showing Theater outcomes in “Y” axis and months in “X” axis. 
 
-o	Limitations of this dataset.
-
-
-- - some other possible tables and/or graphs that could be created
-      Clustered column can be created for showing Theater outcomes in “Y” axis and months in “X” axis. 
-
-      Dataset has outliers. It can be demonstrated by creating a Box and Whisker Plot. 
+  - Dataset has outliers. It can be demonstrated by creating a Box and Whisker Plot. 
