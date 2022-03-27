@@ -22,15 +22,18 @@ Though this data is for long period from year 2010 to 2017.
 If you had no challenges, describe any possible challenges or difficulties that could be encountered.
 
 3. Final Outcomes from analysis:
- Theater Outcomes by Launch Date
+ 
+ # Theater Outcomes by Launch Date
 1)	The most successful month for Kickstarter campaigns was May.
 2)	Jan, Mar, Sep, Nov and Dec all had almost the same number of failed campaigns launched. Though December successful and failed outcomes showing almost same point.
-Chart Theater Outcomes by Launch Date Image Link :
+Chart Theater Outcomes by Launch Date
+![alt text](https://github.com/sharifbhuiyan/Kickstarter_analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
-Outcomes based on Goals
+# Outcomes based on Goals
 The 100% failed range was ‘45000 to 49999’, where number of total project was single. Though the highest number of successful in target range 1000 to 4999, which was 73%. But the highest successful rate 76% was in target range “Less than 1000”.  
 
 Chart Outcomes based on Goals Image Link :
+![alt text](https://github.com/sharifbhuiyan/Kickstarter_analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
 o	What are some limitations of this dataset?
 
