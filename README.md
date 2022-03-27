@@ -39,8 +39,8 @@ A line chart is created to visualize the percentage of successful, failed, and c
 ## 3. Final Outcomes from analysis:
  
 ### Theater Outcomes by Launch Date
-1)	From the analysis, it is cleared that the most successful month for Kickstarter campaigns was May.
-2)	Jan, Mar, Sep, Nov and Dec all had almost the same number of failed campaigns launched. Though successful and failed outcomes of December showing almost in same point.
+  - From the analysis, it is cleared that the most successful month for Kickstarter campaigns was May.
+  - <p align="justify">Jan, Mar, Sep, Nov and Dec all had almost the same number of failed campaigns launched. Though successful and failed outcomes of December showing almost in same point. <p>
 
 
 
