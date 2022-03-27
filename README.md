@@ -55,5 +55,4 @@ A line chart is created to visualize the percentage of successful, failed, and c
   
   - Dataset has outliers. It can be demonstrated by creating a Box and Whisker Plot.
   
-  - Measure of central tendency and measure of variation or dispersion can be used for skewed distributions or distributions with outliers. .
-  
+  - Measure of central tendency and measure of variation or dispersion can be used for skewed distributions or distributions with outliers.
