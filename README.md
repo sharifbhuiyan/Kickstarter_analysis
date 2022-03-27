@@ -2,6 +2,7 @@
 
 
 
+
   ## 1. Overview of Project: 
 The purpose of the project to know how different campaigns fared in relation to their launch dates and their funding goals. Also analysis is performed to project the fundraise in a short amount of time.
  The project contains two technical analyses including tables and graphically visualization. 
