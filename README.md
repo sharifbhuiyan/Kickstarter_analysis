@@ -29,7 +29,7 @@ A “Line with markers” chart has been created to visualize campaign outcomes 
 
 A line chart is created to visualize the percentage of successful, failed, and canceled plays based on the funding goal amount. 
 
-  
+
   <p align="center">
   <img width="800" height="300" src=https://github.com/sharifbhuiyan/Kickstarter_analysis/blob/main/Resources/Outcomes_vs_Goals.png
 </p>
